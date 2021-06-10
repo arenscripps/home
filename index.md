@@ -8,14 +8,14 @@
 <img src="images/Figure4.png?raw=true"/>
 
 ---
-[Project 2 Title](http://example.com/)
+[Oceanic Dissolved Oxygen Declines](https://doi.org/10.1038/s41598-018-25341-8)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Archived Projects
 
-- [Project 1 Title](websiteurl)
+- [Project Here](websiteurl)
 
 ---
 
