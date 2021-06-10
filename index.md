@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Project 1 Title](/pages/sample_page)
+[Salinity and Temperature Extremes in the California Current System](https://doi.org/10.1038/s43247-021-00131-9)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
