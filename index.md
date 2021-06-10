@@ -9,7 +9,7 @@
 
 ---
 [Oceanic Dissolved Oxygen Declines](https://doi.org/10.1038/s41598-018-25341-8)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Figure5_revised.png?raw=true"/>
 
 ---
 
