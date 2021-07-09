@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Across-shore Propagation of Subthermocline Eddies in the California Current System (submitted)]
+Across-shore Propagation of Subthermocline Eddies in the California Current System (submitted)
 <img src="images/plotexampleEddy.png?raw=true"/>
 ---
 [Salinity and Temperature Extremes in the California Current System](https://doi.org/10.1038/s43247-021-00131-9)
