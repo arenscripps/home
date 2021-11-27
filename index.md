@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-Across-shore Propagation of Subthermocline Eddies in the California Current System (submitted)
+[Across-shore Propagation of Subthermocline Eddies in the California Current System](https://doi.org/10.1175/JPO-D-21-0137.1)
 <img src="images/plotexampleEddy.png?raw=true"/>
 
 ---
