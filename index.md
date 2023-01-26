@@ -7,7 +7,7 @@
 [Dissolved Oxygen Observations from Spray Underwater Gliders](https://drive.google.com/file/d/1TsWagoaGzxQO_-fVW0rH-KTM47Pb-Hhc/view?usp=sharing)
 This seminar was recorded at Woods Hole Oceanographic Institution on Jan 10, 2023.
 
---
+---
 [Across-shore Propagation of Subthermocline Eddies in the California Current System](https://doi.org/10.1175/JPO-D-21-0137.1)
 <img src="images/plotexampleEddy.png?raw=true"/>
 
@@ -23,7 +23,7 @@ This seminar was recorded at Woods Hole Oceanographic Institution on Jan 10, 202
 
 ### Archived Projects
 
-#- [Project Here](websiteurl)
+<!- [Project Here](websiteurl)>
 
 ---
 
