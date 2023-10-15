@@ -4,6 +4,10 @@
 
 ### Recent Projects
 
+[Warming and Lateral Shift of the Gulf Stream from In Situ Observations Since 2001](https://doi.org/10.1038/s41558-023-01835-w)
+
+---
+
 Preprint: ["Drift Characteristics of Sea-Bird Dissolved Oxygen Optode Sensors"](https://drive.google.com/file/d/1NQQ82bqfOMQQTBlmp4WUKKQQWi4hTht3/view?usp=sharing) -Under revision at JTECH.
 
 ---
