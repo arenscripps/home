@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-Update: Drift Characteristics of Sea-Bird Dissolved Oxygen Optode Sensors has been accepted for publication at *Journal of Atmospheric and Oceanic Technology* (JTECH). Please email me if you would like a copy of the accepted manuscript. 
+[Drift Characteristics of Sea-Bird Dissolved Oxygen Optode Sensors](https://doi.org/10.1175/JTECH-D-22-0103.1)<img src="images/.png?raw=true"/> 
 
 ---
 
