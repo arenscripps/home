@@ -11,10 +11,6 @@
 [Warming and Lateral Shift of the Gulf Stream from In Situ Observations Since 2001](https://doi.org/10.1038/s41558-023-01835-w)
 
 ---
-
-Preprint: ["Drift Characteristics of Sea-Bird Dissolved Oxygen Optode Sensors"](https://drive.google.com/file/d/1NQQ82bqfOMQQTBlmp4WUKKQQWi4hTht3/view?usp=sharing) -Submitted to JTECH.
-
----
 [Dissolved Oxygen Observations from Spray Underwater Gliders](https://drive.google.com/file/d/1TsWagoaGzxQO_-fVW0rH-KTM47Pb-Hhc/view?usp=sharing)
 This seminar was recorded at Woods Hole Oceanographic Institution on Jan 10, 2023.
 
