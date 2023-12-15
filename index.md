@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Drift Characteristics of Sea-Bird Dissolved Oxygen Optode Sensors](https://doi.org/10.1175/JTECH-D-22-0103.1) <img src="images/Fig_.png?raw=true"/> 
+[Drift Characteristics of Sea-Bird Dissolved Oxygen Optode Sensors](https://doi.org/10.1175/JTECH-D-22-0103.1) <img src="images/Fig_LabSetup.png?width=30"/> 
 
 ---
 
