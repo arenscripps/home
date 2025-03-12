@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Springtime Warming by Ocean Advection in the Gulf Stream](https://doi.org/10.1029/2024GL111000) <img src="images/Figure05_netairsea.png?height=10"/>
+[Springtime Warming by Ocean Advection in the Gulf Stream](https://doi.org/10.1029/2024GL111000) <img src="images/Figure05_netairsea.png?height=6"/>
 
 ---
 
