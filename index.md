@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Springtime Warming by Ocean Advection in the Gulf Stream](https://doi.org/10.1029/2024GL111000) <img src="images/Figure05_netairsea.png" style="width:60%; height:auto;"/>
+[Springtime Warming by Ocean Advection in the Gulf Stream](https://doi.org/10.1029/2024GL111000) <img src="images/Figure05_netairsea.png" style="width:70%; height:auto;"/>
 
 ---
 
@@ -28,7 +28,7 @@ This seminar was recorded at Woods Hole Oceanographic Institution on Jan 10, 202
 
 ---
 [Oceanic Dissolved Oxygen Declines](https://doi.org/10.1038/s41598-018-25341-8)
-<img src="images/Figure5_revised.png?raw=true"/>
+<img src="images/Figure5_revised.png" style="width:90%; height:auto;"/>
 
 ---
 
