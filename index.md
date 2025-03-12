@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Springtime Warming by Ocean Advection in the Gulf Stream](https://doi.org/10.1029/2024GL111000) <img src=""/>
+[Springtime Warming by Ocean Advection in the Gulf Stream](https://doi.org/10.1029/2024GL111000) <img src="images/Figure05_netairsea.png?height=12"/>
 
 [Drift Characteristics of Sea-Bird Dissolved Oxygen Optode Sensors](https://doi.org/10.1175/JTECH-D-22-0103.1) <img src="images/Fig_LabSetup.png?height=12"/> 
 
